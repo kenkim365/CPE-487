@@ -1,0 +1,28 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Thu Apr 25 14:51:50 2019
+# Process ID: 3452
+# Current directory: C:/Users/dppel/Projects/CPE487/tetris_ex
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12176 C:\Users\dppel\Projects\CPE487\tetris_ex\tetris_ex.xpr
+# Log file: C:/Users/dppel/Projects/CPE487/tetris_ex/vivado.log
+# Journal file: C:/Users/dppel/Projects/CPE487/tetris_ex\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/dppel/Projects/CPE487/tetris_ex/tetris_ex.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/dppel/Projects/CPE 487/tetris_ex' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:23 ; elapsed = 00:00:12 . Memory (MB): peak = 801.004 ; gain = 119.316
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 2
+[Thu Apr 25 15:03:31 2019] Launched synth_1...
+Run output will be captured here: C:/Users/dppel/Projects/CPE487/tetris_ex/tetris_ex.runs/synth_1/runme.log
+launch_runs impl_1 -jobs 2
+[Thu Apr 25 15:10:33 2019] Launched impl_1...
+Run output will be captured here: C:/Users/dppel/Projects/CPE487/tetris_ex/tetris_ex.runs/impl_1/runme.log
