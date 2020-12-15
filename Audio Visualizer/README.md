@@ -1,1 +1,1 @@
-Origin Project will display 1-16 on a LED display on the A7 Board.
+Origin Project that would display 1-16 on a LED display on the A7 Board. (Currently missing files and does not synthisize correctly. Please check Audio Visualizer New for our attempt to fix the project while implement our vga audio visualizer function into their base project file).
