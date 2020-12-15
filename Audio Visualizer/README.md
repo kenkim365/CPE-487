@@ -1,4 +1,1 @@
-Working with Jared Kantor
-
-This project will be able to output a number from 1 to 16 on the LED display of the Nexys A7 board.
-It will correspond to the volume level of whatever sound the onboard mic detects.
+Origin Project will display 1-16 on a seven 7 display on the A7 Board.
