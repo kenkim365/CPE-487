@@ -5,3 +5,5 @@ Files for the 6 required labs along with the files for the Audio Visualizer and 
 Origin File for Tetris: https://github.com/danpelis/CPE487
 
 Origin File for Audio Visualizer: https://github.com/eschneid19/cpe-487
+
+Use the link under Tetris New for the GitHub link to the uploaded project
