@@ -7,3 +7,5 @@ Origin File for Tetris: https://github.com/danpelis/CPE487
 Origin File for Audio Visualizer: https://github.com/eschneid19/cpe-487
 
 Use the link under Tetris New for the GitHub link to the uploaded project
+
+audio visualizer link v2 (updated): https://github.com/karlsheng99/CPE487_dsd/tree/master/project/AudioVisualEqualizer
